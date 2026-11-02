@@ -8,3 +8,7 @@ build/
 dist/
 *.spec
 ~$*.docx
+
+# Результаты ручного опыта создаются при повторении отчёта.
+/examples/test.magma
+/examples/test_restored.bin
